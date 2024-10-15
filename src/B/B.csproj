@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="NLog" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\A\A.csproj" />
+  </ItemGroup>
+</Project>
