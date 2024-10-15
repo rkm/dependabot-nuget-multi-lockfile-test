@@ -5,6 +5,6 @@
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
   </PropertyGroup>
   <ItemGroup>
-    <PackageVersion Include="NLog" Version="5.3.0" />
+    <PackageVersion Include="NLog" Version="5.3.4" />
   </ItemGroup>
 </Project>
